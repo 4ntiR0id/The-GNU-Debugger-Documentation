@@ -3,10 +3,7 @@
 <img src="GNU-Logo.png" alt="Project Image" width="150"/>
 </p>
 
-<h1 align="center">
-  The GNU Debugger Documentation<br>
-  <span>CheckList</span>
-</h1>
+<h1 align="center">The GNU Debugger Documentation</h1>
 
 
 > **> Purpose**
